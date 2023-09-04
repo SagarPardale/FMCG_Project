@@ -1,5 +1,7 @@
 Food and Beverages Store Analysis Project.Tools Used- Excel For cleaning,Processing and for Dasboard making. PowerBi and Tableau for making Dashboard. Powerpoint for making Presentation.
+
 Important KPI's in Project
+
 1.Total Sales
 2.Store Wise Sales
 3.Sales Growth
